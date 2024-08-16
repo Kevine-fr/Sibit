@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305595595990",
+    "project_id": "sibit-a1b7b",
+    "storage_bucket": "sibit-a1b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305595595990:android:c46a48c23a7f184ffcdd77",
+        "android_client_info": {
+          "package_name": "com.example.sibit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqxkkOwE0POscKSOoCTF5vEoh73NUGfy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
